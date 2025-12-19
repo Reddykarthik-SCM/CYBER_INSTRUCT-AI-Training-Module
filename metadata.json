@@ -1,0 +1,5 @@
+{
+  "name": "CyberSec Instructor AI",
+  "description": "An advanced, terminal-style cybersecurity instructor that teaches offensive security concepts, methodology, and tools in a professional, legal context.",
+  "requestFramePermissions": []
+}
